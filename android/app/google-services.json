@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "977800747815",
+    "project_id": "mltextrecogpractice",
+    "storage_bucket": "mltextrecogpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977800747815:android:48602369ff5d49fdb46702",
+        "android_client_info": {
+          "package_name": "com.example.ml_textrecog_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977800747815-vp01ehje2o6icd91gpt2d351uhdclqun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ml_textrecog_practice",
+            "certificate_hash": "c6e91af9af73ad1de512aa74e3e159be4fec821b"
+          }
+        },
+        {
+          "client_id": "977800747815-i37ah76sgqmkkh0vio1a0qp8t6at1833.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnoTjEVaCfjKVeJJIuDYc4n-cNeNeouY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977800747815-i37ah76sgqmkkh0vio1a0qp8t6at1833.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
